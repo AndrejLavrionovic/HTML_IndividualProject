@@ -1,0 +1,180 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+div, section, article, header, footer, nav
+{
+	display: block;
+}
+body
+{
+	height: 100%;
+	width: 100%;
+}
+
+#wrapper
+{
+	width: 960px;
+	border: 3px solid black;
+	border-radius: 8px;
+	margin: 15px auto;
+	background-color: #0085BA;
+	opacity: 0.9;
+}
+#date_bar
+{
+	width: 940px;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 0 0 20px;
+	font-family: calibri;
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: bold;
+}
+#main_menu
+{
+	width: 910px;
+	height: 40px;
+	margin: 0 auto;
+	line-height: 40px;
+	padding-left: 30px;
+	background-color: #006B96;
+	border-radius: 6px;
+}
+#main_menu ul li
+{
+	display: inline-block;
+	list-style: none;
+	margin-right: 30px;
+}
+#main_menu ul li a, #main_menu ul li a:active
+{
+	text-decoration: none;
+	font-weight: bold;
+	font-family: calibri;
+	font-size: 16px;
+	color: #ccffff;
+}
+#main_menu ul li a:hover
+{
+	color: #00e5e5;
+}
+#container
+{
+	width: 900px;
+	padding: 30px;
+}
+#main_section
+{
+	width: 500px;
+	float: left;
+}
+#main_aside
+{
+	width: 380px;
+	padding-left: 20px;
+	float: left;
+}
+#about_zenit{
+	width: 378px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#about_zenit header{
+	width: 338px;
+	height: 30px;
+	padding: 10px 0 0 40px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194EB7;
+	line-height: 50px;
+	font: bold 18px verdana;
+	color: #cceaff;
+}
+#about_zenit table{
+	width: 378px;
+	margin-top: 15px;
+}
+.second{
+	background-color: #0078A8;
+}
+#about_zenit table tr td{
+	padding-left: 10px;
+	font: normal 15px calibri;
+	color: #CCEAFF;
+}
+#about_zenit table tr td a{
+	text-decoration: none;
+	font: normal 15px calibri;
+	color: #CCEAFF;
+}
+.title{
+	width: 150px;
+}
+#league_table{
+	width: 378px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#league_table header{
+	width: 338px;
+	height: 30px;
+	padding: 10px 0 0 40px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194EB7;
+	line-height: 50px;
+	font: bold 18px verdana;
+	color: #cceaff;
+}
+.position, .w, .d, .l{
+	width: 25px;
+	text-align: center;
+}
+.games, .points{
+	text-align: center;
+}
+.teem{
+	width: 130px;
+	padding-left: 10px;
+}
+#league_table table{
+	width: 378px;
+	margin-top: 15px;
+}
+.position, .teem, .games, .w, .d, .l, .d{
+	font: normal 15px calibri;
+	color: #CCEAFF;
+}
+.points{
+	font: bold 15px calibri;
+	color: #CCEAFF;
+}
+.spicer{
+	clear: both;
+	height: 50px;
+	width: 498px;
+}
+#main_footer
+{
+	clear: both;
+}
+#main_footer hr
+{
+	width: 900px;
+	margin: 0 30px;
+}
+#footer_article
+{
+	width: 900px;
+	padding-top: 15px;
+	margin: 10px auto;
+	font: bolder 14px calibri;
+	color: #004763;
+}
+#footer_article span a, #footer_article span a:hover, #footer_article span a:active, #footer_article span a:visited
+{
+	color: #002938;
+	font-weight: bold;
+	text-decoration: none;
+}

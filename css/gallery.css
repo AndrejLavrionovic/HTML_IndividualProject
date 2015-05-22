@@ -1,0 +1,29 @@
+#gallery_article{
+	width: 818px;
+	margin: 15px auto;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#gallery_article header{
+	width: 788px;
+	padding-left: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #194eb7;
+	border-radius: 10px 10px 0 0;
+	font: bold 14px verdana;
+	color: #cceaff;
+}
+#gallery_article table{
+	width: 818px;
+}
+#gallery_article table tr td{
+	width: 25%;
+	text-align: center;
+}
+#gallery_article table tr td img{
+	opacity: 0.6;
+}
+#gallery_article table tr td img:hover{
+	opacity: 1.0;
+}

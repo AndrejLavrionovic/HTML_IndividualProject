@@ -1,0 +1,52 @@
+#main_section{
+	width: 500px;
+}
+#squad{
+	width: 498px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#squad header{
+	width: 468px;
+	padding-left: 30px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194EB7;
+	font: bold 18px verdana;
+	color: #cceaff;
+}
+#squad section table{
+	width: 498px;
+}
+thead tr{
+	height: 26px;
+}
+#squad section table th{
+	background-color: #0078A8;
+	font: bold 12px arial;
+	color: #cceaff;
+}
+th.position, th.nationality{
+	width: 100px;
+}
+td.num{
+	width: 50px;
+	text-align: center;
+	font: bold 22px calibri;
+	color: #cceaff;
+}
+td.img{
+	width: 72px;
+}
+td.name{
+	padding-left: 10px;
+}
+td.nat{
+	width: 90px;
+	padding-left: 10px;
+}
+td.name, td.nat{
+	font: normal 14px calibri;
+	color: #cceaff;
+}

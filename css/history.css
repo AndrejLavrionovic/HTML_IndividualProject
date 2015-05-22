@@ -1,0 +1,62 @@
+#histoty_art{
+	width: 498px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#histoty_art #history_header{
+	width: 458px;
+	height: 30px;
+	padding: 10px 0 0 40px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194EB7;
+	line-height: 30px;
+	font: bold 18px verdana;
+	color: #cceaff;
+}
+#history_nav{
+	width: 480px;
+	height: 26px;
+	background-color: #1C5BCE;
+	margin: 15px auto;
+}
+#history_nav ul li{
+	display: inline-block;
+	width: 76px;
+	height: 26px;
+	list-style: none;
+	text-align: center;
+}
+#history_nav ul li:hover{
+	background-color: #174BA5;
+}
+#history_nav ul li a{
+	text-decoration: none;
+	font: normal 12px calibri;
+	color: #cceaff;
+}
+#history_section header{
+	width: 468px;
+	padding-left: 30px;
+}
+#history_section header p{
+	font: bold 14px verdana;
+	color: #cceaff;
+}
+#history_section section{
+	width: 478px;
+	padding: 0 10px;
+	font: normal 14px calibri;
+	color: #cceaff;
+}
+#history_section article footer{
+	width: 468px;
+	padding-left: 30px;
+	height: 30px;
+	line-height: 30px;
+	font: 12px bolder Arial;
+}
+#history_section article footer a{
+	text-decoration: none;
+	color: #CCEAFF;
+
+}

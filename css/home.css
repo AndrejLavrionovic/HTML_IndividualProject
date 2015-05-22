@@ -1,0 +1,63 @@
+#matches tr td.outer{
+	width: 250px;
+	text-align: left;
+}
+#matches tr td article{
+	width: 218px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+	background-color: #006891;
+}
+#matches tr td article header{
+	width: 198px;
+	padding-left: 20px;
+	height: 20px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194EB7;
+	font: bold 13px Verdana;
+	color: #cceaff;
+}
+td.s{
+	width: 218px;
+	text-align: center;
+	font: normal 12px calibri;
+	color: #cceaff;
+}
+tr.res{
+	height: 100px;
+	line-height: 100px;
+}
+tr.res td.t{
+	width: 35%;
+	text-align: center;
+	font: normal 12px calibri;
+	color: #cceaff;
+}
+td.r{
+	text-align: center;
+	font: bold 20px verdana;
+	color: #cceaff;
+}
+#news_list{
+	width: 498px;
+	border: 1px solid #194EB7;
+	border-radius: 10px 10px 0 0;
+}
+#news_list header{
+	width: 468px;
+	padding-left: 30px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 10px 10px 0 0;
+	background-color: #194eb7;
+	font: bold 17px verdana;
+	color: #cceaff;
+}
+#news_list section table tr td:first-child{
+	width: 110px;
+}
+td.news_title{
+	padding: 0 50px 0 20px;
+	font: bolder 18px calibri;
+	color: #cceaff;
+}
